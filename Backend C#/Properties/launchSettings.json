@@ -39,3 +39,13 @@
     }
   }
 }
+
+{
+  "Nombre": "Ivan Perez",
+  "Edad": 22,
+  "Telefono": {
+    "TipoTelefono": "Fijo",
+    "NumeroTelefono": 2822887
+  },
+  "Email": "ivanestebanperezdlo@gmail.com"
+}
